@@ -17,9 +17,9 @@ public class Conexion {
     
     private static Connection conn;
     private static final String driver = "com.mysql.jdbc.Driver";
-    private static final String user = "itmatica_poo";
-    private static final String password = "1hQNX966S+cG";
-    private static final String url = "jdbc:mysql://itmatica.net:3306/itmatica_poo";
+    private static final String user = "admin";
+    private static final String password = "Admin123";
+    private static final String url = "jdbc:mysql://dominio.com";
     
     public Conexion()
     {
